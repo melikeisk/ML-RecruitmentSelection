@@ -1,3 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.pickle
+*.joblib
+
+# Jupyter Notebook checkpoints (kullanmasan bile iyi olur)
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment / Virtual Env
+.env
+.venv/
+env/
+venv/
+
+# Logs and outputs
+*.log
+outputs/
+
+# Models
+models/
+
+# Cache
+*.cache
+.cache/
+
+# Hidden/system files
+*.swp
+*.bak
+*.tmp
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
